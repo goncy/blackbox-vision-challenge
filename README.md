@@ -1,4 +1,4 @@
-![BlackBox Vision](./public/logo.png "BlackBox Vision")
+![BlackBox Vision](./src/assets/logo.png "BlackBox Vision")
 
 # QuizBox Vision
 
