@@ -1,0 +1,21 @@
+// Container
+.container {
+  width: 100%;
+  max-width: 480px;
+}
+
+// Header
+.header {
+  h1 {
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 0;
+    margin-bottom: 6px;
+  }
+
+  h3 {
+    font-weight: 300;
+    font-size: 1.25rem;
+    margin: 0;
+  }
+}
